@@ -1,0 +1,11 @@
+public class Main
+{
+    public static void main(String[] args)
+    {
+        int numToExamine = 2;
+        int ans = 0;
+        ans = numToExamine % 2;
+
+        System.out.println(numToExamine + " is even");
+    }
+}
